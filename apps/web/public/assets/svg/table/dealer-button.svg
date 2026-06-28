@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <radialGradient id="dbGrad" cx="38%" cy="35%" r="65%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="70%" style="stop-color:#f0f0f0"/>
+      <stop offset="100%" style="stop-color:#d0d0d0"/>
+    </radialGradient>
+    <filter id="dbShadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="#c62828" stroke="#8e0000" stroke-width="2" filter="url(#dbShadow)"/>
+  <circle cx="60" cy="60" r="50" fill="url(#dbGrad)" stroke="#c62828" stroke-width="3"/>
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#c62828" stroke-width="1" opacity="0.3"/>
+  <rect x="37" y="54" width="46" height="20" rx="10" fill="#c62828"/>
+  <text x="60" y="69" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="900" fill="#fff">DEALER</text>
+</svg>

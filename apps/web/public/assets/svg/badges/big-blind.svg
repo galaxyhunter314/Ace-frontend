@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="36" fill="#c62828" stroke="#8e0000" stroke-width="2"/>
+  <circle cx="40" cy="40" r="30" fill="#e53935" stroke="#c62828" stroke-width="1.5"/>
+  <text x="40" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#fff">BIG</text>
+  <text x="40" y="50" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#fff">BLIND</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110">
+  <defs>
+    <linearGradient id="afGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd54f"/>
+      <stop offset="100%" style="stop-color:#f57f17"/>
+    </linearGradient>
+    <filter id="afGlowG"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <circle cx="55" cy="55" r="52" fill="none" stroke="url(#afGold)" stroke-width="4" filter="url(#afGlowG)"/>
+  <circle cx="55" cy="55" r="48" fill="none" stroke="rgba(255,213,79,0.3)" stroke-width="1.5"/>
+  <circle cx="55" cy="55" r="44" fill="none" stroke="rgba(255,213,79,0.15)" stroke-width="1"/>
+</svg>

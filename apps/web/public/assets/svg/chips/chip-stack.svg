@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 280">
+  <!-- Stack of poker chips (side view) -->
+  <!-- Bottom chip (green) -->
+  <ellipse cx="80" cy="250" rx="60" ry="12" fill="#2e7d32" stroke="#1b5e20" stroke-width="1"/>
+  <ellipse cx="80" cy="247" rx="60" ry="12" fill="#43a047"/>
+  <ellipse cx="80" cy="244" rx="60" ry="12" fill="#2e7d32" stroke="#1b5e20" stroke-width="1"/>
+  <!-- Blue chip -->
+  <ellipse cx="80" cy="235" rx="60" ry="12" fill="#1565c0" stroke="#0d47a1" stroke-width="1"/>
+  <ellipse cx="80" cy="232" rx="60" ry="12" fill="#1e88e5"/>
+  <ellipse cx="80" cy="229" rx="60" ry="12" fill="#1565c0" stroke="#0d47a1" stroke-width="1"/>
+  <!-- Red chip -->
+  <ellipse cx="80" cy="220" rx="60" ry="12" fill="#c62828" stroke="#b71c1c" stroke-width="1"/>
+  <ellipse cx="80" cy="217" rx="60" ry="12" fill="#e53935"/>
+  <ellipse cx="80" cy="214" rx="60" ry="12" fill="#c62828" stroke="#b71c1c" stroke-width="1"/>
+  <!-- Black chip -->
+  <ellipse cx="80" cy="205" rx="60" ry="12" fill="#212121" stroke="#000000" stroke-width="1"/>
+  <ellipse cx="80" cy="202" rx="60" ry="12" fill="#424242"/>
+  <ellipse cx="80" cy="199" rx="60" ry="12" fill="#212121" stroke="#000000" stroke-width="1"/>
+  <!-- Gold chip -->
+  <ellipse cx="80" cy="190" rx="60" ry="12" fill="#f9a825" stroke="#f57f17" stroke-width="1"/>
+  <ellipse cx="80" cy="187" rx="60" ry="12" fill="#fdd835"/>
+  <ellipse cx="80" cy="184" rx="60" ry="12" fill="#f9a825" stroke="#f57f17" stroke-width="1"/>
+  <!-- Top chip (white) -->
+  <ellipse cx="80" cy="175" rx="60" ry="12" fill="#f5f5f5" stroke="#e0e0e0" stroke-width="1"/>
+  <ellipse cx="80" cy="172" rx="60" ry="12" fill="#ffffff"/>
+  <ellipse cx="80" cy="169" rx="60" ry="12" fill="#f5f5f5" stroke="#e0e0e0" stroke-width="1"/>
+</svg>

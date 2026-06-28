@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 336" width="240" height="336">
+  <defs>
+    <radialGradient id="back-grad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </radialGradient>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 8 0 L 16 8 L 8 16 L 0 8 Z" fill="none" stroke="#60a5fa" stroke-width="0.8" opacity="0.3"/>
+      <circle cx="8" cy="8" r="2" fill="#93c5fd" opacity="0.4"/>
+    </pattern>
+  </defs>
+  <!-- Base card shape -->
+  <rect width="240" height="336" rx="12" fill="#ffffff" />
+  <!-- Inner border -->
+  <rect x="8" y="8" width="224" height="320" rx="8" fill="url(#back-grad)" />
+  <!-- Pattern layer -->
+  <rect x="12" y="12" width="216" height="312" rx="6" fill="url(#grid)" />
+  <!-- Ornaments -->
+  <rect x="16" y="16" width="208" height="304" rx="4" fill="none" stroke="#93c5fd" stroke-width="1.5" opacity="0.5" />
+  <circle cx="120" cy="168" r="32" fill="#1d4ed8" stroke="#93c5fd" stroke-width="2" />
+  <path d="M 120 148 L 132 168 L 120 188 L 108 168 Z" fill="#93c5fd" opacity="0.8" />
+</svg>

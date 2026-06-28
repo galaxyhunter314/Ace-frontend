@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="blackGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#424242;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#212121;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#424242;stop-opacity:1"/>
+    </linearGradient>
+    <radialGradient id="blackShine" cx="35%" cy="35%" r="50%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="98" fill="#222" stroke="#333" stroke-width="1"/>
+  <circle cx="100" cy="100" r="94" fill="url(#blackGrad)" stroke="#333" stroke-width="1"/>
+  <g fill="#ffffff" opacity="0.15">
+    <circle cx="170.0" cy="100.0" r="2.5"/>
+    <circle cx="167.6" cy="118.1" r="2.5"/>
+    <circle cx="160.6" cy="135.0" r="2.5"/>
+    <circle cx="149.5" cy="149.5" r="2.5"/>
+    <circle cx="135.0" cy="160.6" r="2.5"/>
+    <circle cx="118.1" cy="167.6" r="2.5"/>
+    <circle cx="100.0" cy="170.0" r="2.5"/>
+    <circle cx="81.9" cy="167.6" r="2.5"/>
+    <circle cx="65.0" cy="160.6" r="2.5"/>
+    <circle cx="50.5" cy="149.5" r="2.5"/>
+    <circle cx="39.4" cy="135.0" r="2.5"/>
+    <circle cx="32.4" cy="118.1" r="2.5"/>
+    <circle cx="30.0" cy="100.0" r="2.5"/>
+    <circle cx="32.4" cy="81.9" r="2.5"/>
+    <circle cx="39.4" cy="65.0" r="2.5"/>
+    <circle cx="50.5" cy="50.5" r="2.5"/>
+    <circle cx="65.0" cy="39.4" r="2.5"/>
+    <circle cx="81.9" cy="32.4" r="2.5"/>
+    <circle cx="100.0" cy="30.0" r="2.5"/>
+    <circle cx="118.1" cy="32.4" r="2.5"/>
+    <circle cx="135.0" cy="39.4" r="2.5"/>
+    <circle cx="149.5" cy="50.5" r="2.5"/>
+    <circle cx="160.6" cy="65.0" r="2.5"/>
+    <circle cx="167.6" cy="81.9" r="2.5"/>
+  </g>
+  <circle cx="100" cy="100" r="72" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.2"/>
+  <circle cx="100" cy="100" r="68" fill="url(#blackGrad)" stroke="#333" stroke-width="0.5"/>
+  <circle cx="100" cy="100" r="66" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.15"/>
+  <circle cx="100" cy="100" r="45" fill="url(#blackGrad)" stroke="#333" stroke-width="1"/>
+  <circle cx="100" cy="100" r="42" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.25"/>
+  <text x="100" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="#ffffff" opacity="0.9">100</text>
+  <circle cx="100" cy="100" r="94" fill="url(#blackShine)"/>
+</svg>
